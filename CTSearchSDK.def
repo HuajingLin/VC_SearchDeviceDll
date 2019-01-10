@@ -1,0 +1,7 @@
+; CTSearchSDK.def : Declares the module parameters for the DLL.
+
+LIBRARY      "CTSearchSDK"
+DESCRIPTION  'CTSearchSDK Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
